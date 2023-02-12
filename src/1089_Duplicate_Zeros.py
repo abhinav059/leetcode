@@ -8,3 +8,7 @@ class Solution:
                 arr.insert(i,0)
                 i+=1
             i+=1
+
+
+            
+        
